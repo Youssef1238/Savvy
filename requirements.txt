@@ -1,0 +1,11 @@
+flask
+sqlite3
+dotenv
+groq
+flask_jwt_extended
+tkinter
+requests
+tkcalendar
+configparser
+matplotlib
+customtkinter

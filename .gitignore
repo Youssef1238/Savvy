@@ -1,0 +1,37 @@
+# Ignore all .db files
+*.db
+# But track the specific data.db in backend
+backend/data.db
+
+# Ignore all .env files
+*.env
+# But track the specific .env in frontend
+frontend/.env
+
+# Ignore all .ini files
+*.ini
+# But track the specific config.ini in frontend
+frontend/config.ini
+
+# Other common ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
